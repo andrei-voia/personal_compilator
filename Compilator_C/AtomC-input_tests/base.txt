@@ -1,0 +1,5 @@
+int tmp;
+tmp = 108;
+
+//int x = result(10, 7);
+//printf("%d", x);
